@@ -9,5 +9,6 @@ public class Aula01 {
 			System.out.println(i);
 		}
 		System.out.println("Olá");
+		System.out.println("Hi");
 	}
 }
